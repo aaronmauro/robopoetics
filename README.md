@@ -1,4 +1,4 @@
-![Robo Poetics Cover](robopoetics.png)
+![Robo Poetics Cover](https://github.com/aaronmauro/robopoetics/blob/main/robo_poetics_cover.png)
 
 # Robo Poetics - Preface
 Thank you for taking time with our poetry collection. This document is a collaborative project by the students of IASC 1F01 in the fall of 2020. This course is the introductory course for the <a href="https://brocku.ca/humanities/digital-humanities/programs/iasc/">Interactive Arts and Science</a> undergraduate major in the <a href="https://brocku.ca/humanities/digital-humanities/">Centre for Digital Humanities</a> at <a href="https://brocku.ca/">Brock University</a>. Our program is a multidisciplinary program that seeks to prepare the next generation of digital media innovators and scholars.
